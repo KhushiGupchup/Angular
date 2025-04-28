@@ -1,0 +1,27 @@
+.form-card {
+    max-width: 600px;
+    margin: 24px auto;
+    padding: 24px;
+  }
+  
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  .submit-btn {
+    align-self: flex-start;
+    margin-top: 12px;
+  }
+  
+  .table-card {
+    max-width: 800px;
+    margin-left:20px ;
+    padding: 24px;
+  }
+  
